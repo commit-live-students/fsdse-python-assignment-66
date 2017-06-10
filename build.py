@@ -3,6 +3,7 @@ def solution(array):
     """
     Enter code here
     """
+    
     shape = list(np.shape(array))
     multiplier = np.zeros(np.shape(array))
 
