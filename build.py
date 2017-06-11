@@ -10,3 +10,4 @@ def solution(arr):
         arr[i,1:b-1] = 0
     print arr
     return arr
+#https://stackoverflow.com/questions/26975769/modify-a-particular-row-column-of-a-numpy-array
